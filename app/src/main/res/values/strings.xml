@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppTP_4</string>
+    <string name="table_des_noms">Table des noms</string>
+    <string name="photo_de_l_tudiant">Photo de l\'étudiant</string>
+    <string name="choisir_une_photo">Choisir une photo</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom :</string>
+    <string name="date_de_naissance">Date de naissance :</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="voir_la_liste">Voir la liste</string>
+</resources>
